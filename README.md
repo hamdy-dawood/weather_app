@@ -1,16 +1,10 @@
 # weather_app
 
-A new Flutter project.
+Weather App app is open-source app for Android & ios. It is built with Dart on top of Google's Flutter Framework.
 
-## Getting Started
+## preview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+https://user-images.githubusercontent.com/77101158/218267482-c6e05a6d-09e3-4ad5-ac63-069c44ce5335.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
